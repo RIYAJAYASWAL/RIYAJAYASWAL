@@ -47,7 +47,7 @@ Here are a few of my recent/featured projects:
 ### 📫 How to Reach Me
 
 - 📧 Email: riyajayaswal77@gmail.com  
-- 💼 LinkedIn:(linkedin.com/in/riya-jayaswal)
+- 💼 LinkedIn:(www.linkedin.com/in/riya-jayaswal)
   
 ---
 
