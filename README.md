@@ -32,6 +32,8 @@ Here are a few of my recent/featured projects:
 - 🌐 [Pokémon Gallery](https://github.com/RIYAJAYASWAL/Pokemon-Gallery-Pokedex-) – Displays real Pokémon using API  
 - 🌸 [Glowing Flowers](https://github.com/RIYAJAYASWAL/glowing-flowers) – Beautiful animated flower using CSS & JS  
 - 🧮 [Simple Calculator](https://github.com/RIYAJAYASWAL/calculator) – Basic calculator with HTML/CSS/JS
+- 🎵 [Music Player](https://github.com/RIYAJAYASWAL/Music-Player) – A modern and responsive Music Player built using HTML, CSS and JavaScript.
+
 
 ---
 
