@@ -38,7 +38,7 @@ Here are a few of my recent/featured projects:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=RIYAJAYASWAL&show_icons=true&theme=tokyonight" width="45%" /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiyaJayaswal&theme=tokyo-night" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIYAJAYASWAL&theme=tokyonight" width="45%" />
 </p>
 
